@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&family=Roboto:wght@300;500;900&display=swap');
+
+.container{
+    font-family:'Roboto', sans-serif;;
+    font-weight: 500;
+    margin: 100px;
+
+}
+.left-bookmark{
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-right: 0.85vw;
+}
+.right-bookmark{
+    float: left;
+    width: 89%;
+    
+    
+}
+.date-of-release{
+    color: grey;
+    font-size: 15px;
+    font-weight: 900;
+}
+.volume-and-number{
+    color: black;
+    font-size: 14px;
+}
+.link-to-website{
+    padding: 4px;
+    margin-top: 5px;
+    border-top: 0.2vw solid black;
+    font-weight: 900;
+    border-bottom: 0.2vw solid black;
+    font-size: 14px;
+}
+.text-copy{
+    text-align: center ;
+    font-size: 14px;
+    margin-top: 5px;
+    display: flex  ;
+    padding: 4px;
+    margin-left: 25px;
+}
+.text-copy-lower{
+    margin-top: 3px;
+  font-size: 10px;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.header-1-uppercase{
+    font-size: 10rem;
+    margin-left: 2vw;
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+}
+.upper-header{
+    font-size: 2.1rem;
+    font-weight: 500;
+    margin-left: 3.2vw;
+
+}
+.header{
+    border-left: 0.1vw solid black;
+}
+.header-1{
+    font-size: 8rem;
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+    color: #0663a9;
+}
+.snippet-1{
+    float: left;
+    width: 23%
+}
+.img-guy-in-hat{
+    float: left;
+    width: 10%;
+    background-image: url('./guy.png');
+    background-size: cover;
+    background-position: center;
+    height: 19vh;
+    margin-top: -10vh;
+    position: relative;
+}
+.portrait-right{
+    float: left;
+    width: 65%;
+    margin-left: 0.5vw;
+    font-weight: 300;
+}
+.portrait-left{
+    float: left;
+    width: 25%;
+}
+.main-left{
+    float: left;
+
+    width: 77.5%;
+
+}
+.main-right{
+    float: left;
+    width: 18%;
+    margin-left: 3.5vw;
+}
+.snippet-2{
+    float: left;
+    width:20%
+}
+.sub-header-ad{
+    float: left;
+    width: 25%;
+}
+.sub-header{
+    background-color: #ffdf89;
+    height: 9vh;
+    border-bottom: 0.3vw solid #2d3237;
+}
+.snippet-1-header{
+    color:#0663a9 ;
+    margin-left: 2vw;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 900;
+}
+.snippet-1-text{
+    margin-left: 2vw;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 300;
+}
+.snippet-1-span{
+    margin-left: 2vw;
+    font-size: 18px;
+    font-weight: 500;
+}
+.img-guy-in-hat{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+.snippet-2-header{
+    color:#0663a9 ;
+    margin-left: 2vw;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 900;
+}
+.snippet-2-text{
+    margin-left: 2vw;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 300;
+}
+.snippet-2-span{
+    margin-left: 2vw;
+    font-size: 18px;
+    font-weight: 500;
+}
+.starbucks-ad{
+
+    height: 18vh;
+    width: 9vw;
+    margin-top: 3vh;
+}
+.sub-header-ad{
+
+    height: 9vh;
+    width: 30.7vw;
+
+}
+.ad-zinc{
+    margin-top:  3vh;
+    width: 9vw;
+    height: 33.5vh;
+}
+.sasazu-ad{
+    margin-top: 3vh;
+    width: 9vw;
+    height: 33.5vh;
+
+}
+.last-ad{
+    margin-top: 2.4vh;
+    width: 9vw;
+    height: 13.5vh;
+
+}
+.main-right{
+    display: block;
+    text-align: center;
+}
+.flag-of-europe{
+    border-left: 0.1vw solid black;
+    padding: 1vw;
+    background-color: rgb(51, 51, 228);
+    width: 100%;
+    height: 90vh;
+}
+.portraits{
+    padding: 1vw;
+}
+.first-portrait{
+    float: left;
+    width: 25%;
+}
+.second-portrait{
+    float: left;
+    width: 25%;
+}
+.third-portrait{
+    float: left;
+    width: 25%;
+}
+.fourth-portrait{
+    float: left;
+    width: 25%;
+}
+.portraits{
+    color: white;
+}
+.text-bottom-portrait{
+    font-weight: 900;
+    
+}
+.title{
+    color:white;
+    margin-top: 22.5vh;
+}
+.title-lower{
+    font-size: 5rem;
+    margin-left: 40vw;
+    font-weight: 900;
+}
+.title-large{
+    font-size: 19rem;
+
+}
+.left-span{
+    float: left;
+    width: 20%;
+    color: white;
+    padding-left: 1vw;
+    font-size: 1.6rem;
+    text-align: right;
+}
+.right-span{
+    float: left;
+    width: 80%;
+    height: 20vh;
+}
+.snippet-3-title{
+    font-size: 4rem;
+    margin-top: 1vh;
+    font-weight: 500;
+    text-align: left;
+}
+.snippet-3-quote{
+    margin-top: 3vh;
+    font-size: 1.7rem;
+    text-align: left;
+    font-weight: 300;
+}
+.quote-author{
+    margin-top: 3vh;
+    text-align: center;
+    font-weight: 500;
+    font-size: 0.75rem;
+}
+.upper-quote-letters{
+    font-size: 0.95rem;
+    text-align: center;
+    font-weight: 500;
+}
+.quote-last-text{
+    font-size: 0.55rem;
+    text-align: center;
+    font-weight: 900;
+    border-bottom: 0.2vw solid black;
+    width: 40%;
+    margin-left: 3.95vw;
+    padding: 0.5vh;
+}
+.snippet-3-texts{
+    text-align: left;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 3vh;
+}
+.paragraph{
+    margin-left: 1vw;
+
+}
